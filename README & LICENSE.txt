@@ -8,6 +8,5 @@ All Textures/models and plugins are distributed under All Rights Reserved Licens
 This mod can only be downloaded at SpaceDock.info. If you notice any other downloadlink on any other website than SpaceDock, please let me know on the KSP forums.
 
 Changelog:
-
 Version 0.9
 -Initial Release
