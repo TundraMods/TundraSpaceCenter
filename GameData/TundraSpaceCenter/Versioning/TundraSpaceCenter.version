@@ -1,7 +1,7 @@
 {
 	"NAME": "<b><color=#ffffff>Tundra</color> <color=#0090ff>Space Center</color></b>",
 	"URL": "https://raw.githubusercontent.com/damonvv/TundraSpaceCenter/master/GameData/TundraSpaceCenter/Versioning/TundraSpaceCenter.version",
-	"DOWNLOAD": "https://forum.kerbalspaceprogram.com/index.php?/topic/174368-143-tundras-space-center",
+	"DOWNLOAD": "https://forum.kerbalspaceprogram.com/index.php?/topic/166915-131-tundra-exploration",
 	"VERSION":
 	{
 		"MAJOR": 0,
@@ -12,19 +12,19 @@
 	"KSP_VERSION":
 	{
 		"MAJOR": 1,
-		"MINOR": 5,
-		"PATCH": 1
+		"MINOR": 4,
+		"PATCH": 3
 	},
 	"KSP_VERSION_MIN":
 	{
 		"MAJOR": 1,
-		"MINOR": 3,
-		"PATCH": 1
+		"MINOR": 4,
+		"PATCH": 2
 	},
 	"KSP_VERSION_MAX":
 	{
 		"MAJOR": 1,
-		"MINOR": 5,
-		"PATCH": 99
+		"MINOR": 4,
+		"PATCH": 9
 	}
 }
