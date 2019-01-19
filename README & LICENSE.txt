@@ -17,7 +17,6 @@ Version 1.0
 - Added LC-46
 
 - Added Gemini launchclamp
-- Added Atlas V launchclamp
 
 Version 0.9
 -Initial Release
