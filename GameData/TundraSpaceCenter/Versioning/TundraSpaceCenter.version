@@ -4,27 +4,27 @@
 	"DOWNLOAD": "https://forum.kerbalspaceprogram.com/index.php?/topic/174368-143-tundras-space-center",
 	"VERSION":
 	{
-		"MAJOR": 1,
-		"MINOR": 1,
+		"MAJOR": 2,
+		"MINOR": 0,
 		"PATCH": 0,
 		"BUILD": 0
 	},
 	"KSP_VERSION":
 	{
 		"MAJOR": 1,
-		"MINOR": 7,
-		"PATCH": 0
+		"MINOR": 8,
+		"PATCH": 1
 	},
 	"KSP_VERSION_MIN":
 	{
 		"MAJOR": 1,
-		"MINOR": 4,
-		"PATCH": 5
+		"MINOR": 8,
+		"PATCH": 1
 	},
 	"KSP_VERSION_MAX":
 	{
 		"MAJOR": 1,
-		"MINOR": 7,
+		"MINOR": 8,
 		"PATCH": 99
 	}
 }
